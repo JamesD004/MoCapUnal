@@ -1,5 +1,7 @@
 # MoCapUnal
 
+![Sistemas embebidos img](https://github.com/JamesD004/MoCapUnal/blob/main/Imagenes/Proyecto%20Sistemas%20Embebidos.png)
+
 Equipo:
  - Emmanuel Correa 
  - James Daza 
