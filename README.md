@@ -33,3 +33,14 @@ Equipo:
 - Articulación de diferentes giroscopios, para obtener una aproximación espacio temporal de las extremidades a capturar (Mínimo 1 extremidad).
 - Envío de información vía bluetooth para el respectivo análisis de información.
 - Uso de datos para obtener una captura más realista en software de diseño de videojuegos cómo Unity, cryengine o processing.
+
+
+
+
+## [ Esquemático ](https://github.com/)
+
+En la presente sección se encuentran el esquemático que se implementó para el circuito y las diferentes subsecciones que lo componen.
+
+## [ Código ](https://github.com/)
+
+
